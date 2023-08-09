@@ -1,4 +1,0 @@
-ID
-Tester Actions
-Actual Result
-Comment
