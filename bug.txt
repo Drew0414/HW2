@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ID
 Summary
 Environment
@@ -8,3 +9,15 @@ Severity
 Priority
 Reported By
 Attachments
+=======
+ID
+Summary
+Environment
+Steps to reproduce
+Expected result
+Actual result
+Severity
+Priority
+Reported By
+Attachments
+>>>>>>> 6678215b7208bd6476d3d773e97233a28325db88
